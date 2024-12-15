@@ -4,7 +4,7 @@
     "version": "5.0.1",
     "license": "proprietary",
     "require": {
-        "leonbatch/sprout": "^5.0.1",
+        "leonbatch/sprout": "^5.0.3",
         "craftcms/cms": "^5.1.7"
     },
     "autoload": {
